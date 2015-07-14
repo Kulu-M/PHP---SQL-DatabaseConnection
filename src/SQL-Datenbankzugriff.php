@@ -1,13 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Kulu-M
- * Date: 30.06.2015
- * Time: 13:10
- */
-
-
-
 
 
 $con = mysqli_connect("localhost","root","sqlpw","testbase");
